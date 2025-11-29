@@ -1,0 +1,19 @@
+.head{
+    color: brown;
+}
+body{
+    background-color: rgb(187, 236, 177);
+    color: blue;
+}
+img {
+    width : 50%;
+    height : 40%;
+    border: blue;
+}
+.info{
+    background-color: aqua;
+    color: blueviolet;
+    padding: 10% 10%;
+    margin: 33px;
+    border: 3px yellow solid;
+}
